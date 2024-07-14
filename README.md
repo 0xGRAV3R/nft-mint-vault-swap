@@ -20,9 +20,7 @@ Develop a program using Anchor that mints a collection of NFTs. Create a vault t
 ### Dependencies
 
 [dependencies]<br>
-anchor-lang = {version = "0.30.1", features = ["init-if-needed", "interface-instructions", "allow-missing-optionals"] } <br>
-anchor-spl = "0.30.1" <br>
-mpl-core = { version = "0.7.2", features = [ "anchor" ] }
+
 
 ### Anchor.toml
 [toolchain] <br>
