@@ -33,8 +33,8 @@ anchor_version = "0.30.1"
 #### Clone the repo
 
 ```shell
-git clone https://github.com/0xGRAV3R/two-sided-marketplace-for-services.git
-cd two-sided-marketplace-for-services
+git clone https://github.com/0xGRAV3R/nft-mint-vault-swap.git
+cd nft-mint-vault-swap
 ```
 
 #### Install Dependencies
